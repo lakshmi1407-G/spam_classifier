@@ -12,6 +12,7 @@ The user can enter a message in the web application, and the system will instant
 ⚙️ Technologies Used
 
 Python – Programming language used to build the application
+
 Flask – Web framework used to create the user interface
 Pandas – Used for data handling and dataset processing
 Scikit-learn – Used for machine learning model training
