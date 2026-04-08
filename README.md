@@ -76,17 +76,24 @@ spam-detection-project
 │   └── style.css
 │
 └── README.md
+
 ▶️ How to Run the Project
+
 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/spam-detection-project.git
+
 2️⃣ Open the Project Folder
 cd spam-detection-project
+
 3️⃣ Install Required Libraries
 pip install flask pandas scikit-learn
+
 4️⃣ Run the Application
 python app.py
+
 5️⃣ Open in Browser
 http://127.0.0.1:5000/
+
 💡 Example Predictions
 Message	Prediction
 
