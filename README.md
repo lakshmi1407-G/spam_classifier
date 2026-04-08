@@ -14,11 +14,17 @@ The user can enter a message in the web application, and the system will instant
 Python – Programming language used to build the application
 
 Flask – Web framework used to create the user interface
+
 Pandas – Used for data handling and dataset processing
+
 Scikit-learn – Used for machine learning model training
+
 TF-IDF Vectorizer – Used to convert text into numerical features
+
 HTML & CSS – Used to design the web page
+
 🧠 Machine Learning Model
+
 
 The project uses the Multinomial Naive Bayes Algorithm, which works very well for text classification problems like spam detection.
 
@@ -30,6 +36,7 @@ Split the dataset into training and testing data
 Train the Naive Bayes model
 Evaluate the model using accuracy and precision
 Deploy the model using Flask web application
+
 📊 Model Performance
 Metric	Score
 Accuracy	96%
@@ -82,7 +89,11 @@ python app.py
 http://127.0.0.1:5000/
 💡 Example Predictions
 Message	Prediction
+
 Call me when you are free	Not Spam ✅
+
 Click here to win prize	Spam ❌
+
 Let's meet tomorrow	Not Spam ✅
+
 Urgent! Claim your reward now	Spam ❌
