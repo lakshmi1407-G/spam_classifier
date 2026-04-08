@@ -10,6 +10,7 @@ Spam messages are very common in emails and SMS. This project helps automaticall
 The user can enter a message in the web application, and the system will instantly predict whether the message is Spam or Not Spam.
 
 ⚙️ Technologies Used
+
 Python – Programming language used to build the application
 Flask – Web framework used to create the user interface
 Pandas – Used for data handling and dataset processing
